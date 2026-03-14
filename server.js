@@ -8,9 +8,13 @@ const QRCode = require('qrcode');
 
 const PORT = Number(process.env.PORT) || 3000;
 const ROOT_DIR = __dirname;
-const DATA_DIR = path.join(ROOT_DIR, 'data');
+const PERSIST_ROOT =
+  process.env.RAILWAY_VOLUME_MOUNT_PATH ||
+  process.env.PERSIST_ROOT ||
+  ROOT_DIR;
+const DATA_DIR = path.join(PERSIST_ROOT, 'data');
 const PUBLIC_DIR = path.join(ROOT_DIR, 'public');
-const UPLOADS_DIR = path.join(ROOT_DIR, 'uploads');
+const UPLOADS_DIR = path.join(PERSIST_ROOT, 'uploads');
 const STORE_FILE = path.join(DATA_DIR, 'store.json');
 const MAX_DRAW_HISTORY = 400;
 
