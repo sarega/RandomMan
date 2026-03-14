@@ -1,0 +1,20 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="48" fill="#1E293B"/>
+  <circle cx="600" cy="400" r="244" fill="#FFF7ED"/>
+  <path d="M600 156C648 156 694 170 733 195L600 400V156Z" fill="#FF7A18"/>
+  <path d="M733 195C771 220 802 251 825 289L600 400L733 195Z" fill="#F59E0B"/>
+  <path d="M825 289C847 326 859 369 859 412H600L825 289Z" fill="#FB7185"/>
+  <path d="M859 412C857 458 844 502 821 540L600 400H859V412Z" fill="#FDE68A"/>
+  <path d="M821 540C797 579 764 612 725 636L600 400L821 540Z" fill="#34D399"/>
+  <path d="M725 636C688 658 645 671 600 671V400L725 636Z" fill="#60A5FA"/>
+  <path d="M600 671C555 671 512 658 475 636L600 400V671Z" fill="#A78BFA"/>
+  <path d="M475 636C436 612 403 579 379 540L600 400L475 636Z" fill="#F472B6"/>
+  <path d="M379 540C356 502 343 458 341 412H600L379 540Z" fill="#FB7185"/>
+  <path d="M341 412C341 369 353 326 375 289L600 400L341 412Z" fill="#FDBA74"/>
+  <path d="M375 289C398 251 429 220 467 195L600 400L375 289Z" fill="#FACC15"/>
+  <path d="M467 195C506 170 552 156 600 156V400L467 195Z" fill="#FDDBAF"/>
+  <circle cx="600" cy="400" r="66" fill="#0F172A"/>
+  <circle cx="600" cy="400" r="16" fill="#FFF7ED"/>
+  <path d="M600 92L653 204H547L600 92Z" fill="#FFF7ED"/>
+  <text x="600" y="748" text-anchor="middle" fill="#FFF7ED" font-family="Trebuchet MS, sans-serif" font-size="68" font-weight="700">Lucky Wheel</text>
+</svg>

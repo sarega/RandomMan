@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RandomMan Jackpot</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/app.js" defer></script>
+  </head>
+  <body class="player-mode">
+    <main class="player-shell">
+      <h1 class="player-title" id="play-title">RandomMan Jackpot</h1>
+
+      <div class="notice hidden" id="play-warning"></div>
+
+      <section class="player-stage">
+        <p class="player-placeholder" id="result-placeholder">
+          กดปุ่มเพื่อสุ่มคำหรือเลข พร้อมรูปภาพ
+        </p>
+
+        <div class="player-result hidden" id="result-body">
+          <div class="player-image-frame">
+            <img class="player-image" id="result-image" alt="Result" />
+          </div>
+
+          <div class="player-copy">
+            <p class="player-label" id="result-kicker">Result</p>
+            <div class="player-value" id="result-value"></div>
+            <p class="player-detail" id="result-detail"></p>
+          </div>
+        </div>
+      </section>
+
+      <button class="primary-button player-button" type="button" id="draw-button">
+        Random
+      </button>
+    </main>
+  </body>
+</html>

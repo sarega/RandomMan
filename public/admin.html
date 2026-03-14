@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RandomMan Admin</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/admin.js" defer></script>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="hero panel admin-hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Admin Editor</p>
+          <div class="logo-lockup">
+            <img
+              id="admin-logo-preview"
+              class="brand-logo hidden"
+              alt="Brand logo"
+            />
+            <div>
+              <h1>ควบคุมหน้าเกมและคลังสุ่ม</h1>
+              <p>
+                ปรับ title, สี, รูป, ข้อความ, ช่วงตัวเลข และแชร์ QR ให้ผู้เล่นเข้าเล่นพร้อมกัน
+              </p>
+            </div>
+          </div>
+          <div class="badge-row">
+            <a class="ghost-button" id="open-play-link" href="/" target="_blank">
+              Open Player Page
+            </a>
+            <button class="ghost-button" id="copy-play-link" type="button">
+              Copy Play Link
+            </button>
+          </div>
+        </div>
+        <div class="hero-visual">
+          <img
+            id="admin-hero-preview"
+            class="hero-image hidden"
+            alt="Hero preview"
+          />
+          <div class="orb orb-one"></div>
+          <div class="orb orb-two"></div>
+          <div class="orb orb-three"></div>
+        </div>
+      </header>
+
+      <div class="notice hidden" id="admin-status"></div>
+
+      <main class="grid admin-grid">
+        <section class="panel span-2">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Brand & Theme</p>
+              <h2>หน้าตาและข้อมูลหลัก</h2>
+            </div>
+          </div>
+
+          <form id="settings-form" class="stack">
+            <div class="triple-grid">
+              <label class="field">
+                <span>Title</span>
+                <input id="title-input" type="text" maxlength="80" />
+              </label>
+              <label class="field">
+                <span>Subtitle</span>
+                <input id="subtitle-input" type="text" maxlength="180" />
+              </label>
+              <label class="field">
+                <span>Admin Note</span>
+                <input id="admin-note-input" type="text" maxlength="180" />
+              </label>
+            </div>
+
+            <div class="five-grid">
+              <label class="field color-field">
+                <span>Primary</span>
+                <input id="primary-color-input" type="color" />
+              </label>
+              <label class="field color-field">
+                <span>Accent</span>
+                <input id="accent-color-input" type="color" />
+              </label>
+              <label class="field color-field">
+                <span>Surface</span>
+                <input id="surface-color-input" type="color" />
+              </label>
+              <label class="field color-field">
+                <span>Background</span>
+                <input id="background-color-input" type="color" />
+              </label>
+              <label class="field color-field">
+                <span>Text</span>
+                <input id="text-color-input" type="color" />
+              </label>
+            </div>
+
+            <div class="double-grid">
+              <label class="field">
+                <span>Logo Image URL</span>
+                <input id="logo-image-input" type="text" />
+              </label>
+              <label class="field">
+                <span>Hero Image URL</span>
+                <input id="hero-image-input" type="text" />
+              </label>
+            </div>
+
+            <div class="double-grid">
+              <div class="field upload-box">
+                <span>Upload Logo</span>
+                <input id="logo-upload-input" type="file" accept="image/*" />
+                <button
+                  class="ghost-button"
+                  id="upload-logo-button"
+                  type="button"
+                >
+                  Upload Logo
+                </button>
+              </div>
+              <div class="field upload-box">
+                <span>Upload Hero</span>
+                <input id="hero-upload-input" type="file" accept="image/*" />
+                <button
+                  class="ghost-button"
+                  id="upload-hero-button"
+                  type="button"
+                >
+                  Upload Hero
+                </button>
+              </div>
+            </div>
+
+            <div class="triple-grid">
+              <label class="field">
+                <span>Primary Result Mode</span>
+                <select id="result-mode-input">
+                  <option value="text">Text</option>
+                  <option value="number">Number</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>Default Number Min</span>
+                <input id="default-min-input" type="number" value="1" />
+              </label>
+              <label class="field">
+                <span>Default Number Max</span>
+                <input id="default-max-input" type="number" value="10" />
+              </label>
+            </div>
+
+            <div class="button-row">
+              <button class="primary-button" type="submit">Save Settings</button>
+            </div>
+          </form>
+        </section>
+
+        <section class="panel">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Session & QR</p>
+              <h2>ห้องเล่นสด</h2>
+            </div>
+          </div>
+
+          <div class="stack">
+            <div class="session-box">
+              <p class="session-label">Current Room</p>
+              <div class="session-code" id="admin-session-code">LUCKY10</div>
+              <a id="admin-play-link" class="session-link" href="/" target="_blank">
+                /
+              </a>
+            </div>
+
+            <img id="session-qr-image" class="qr-frame" alt="Session QR code" />
+
+            <div class="button-row">
+              <button class="ghost-button" id="regenerate-session" type="button">
+                New QR / New Room
+              </button>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel span-2">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Text Pool</p>
+              <h2>คำหรือประโยคที่ใช้สุ่ม</h2>
+            </div>
+            <button class="ghost-button" id="add-text-button" type="button">
+              Add Text
+            </button>
+          </div>
+
+          <div class="stack" id="text-list"></div>
+        </section>
+
+        <section class="panel">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Image Pool</p>
+              <h2>รูปที่ใช้สุ่ม</h2>
+            </div>
+          </div>
+
+          <form id="image-link-form" class="stack compact-stack">
+            <label class="field">
+              <span>Image Title</span>
+              <input id="image-title-input" type="text" maxlength="120" />
+            </label>
+            <label class="field">
+              <span>Image URL</span>
+              <input id="image-url-input" type="text" />
+            </label>
+            <button class="ghost-button" type="submit">Add Image URL</button>
+          </form>
+
+          <div class="upload-box top-gap">
+            <span>Upload Pool Image</span>
+            <input id="pool-image-title-input" type="text" maxlength="120" placeholder="ชื่อรูป" />
+            <input id="pool-image-upload-input" type="file" accept="image/*" />
+            <button class="ghost-button" id="upload-pool-image-button" type="button">
+              Upload To Pool
+            </button>
+          </div>
+
+          <div class="image-grid top-gap" id="image-grid"></div>
+        </section>
+
+        <section class="panel span-3">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Live History</p>
+              <h2>ผลล่าสุดของห้องปัจจุบัน</h2>
+            </div>
+          </div>
+
+          <div class="history-list" id="admin-history"></div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

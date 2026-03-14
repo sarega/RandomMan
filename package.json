@@ -1,0 +1,26 @@
+{
+  "name": "randomman",
+  "version": "1.0.0",
+  "description": "Jackpot-style random picker for numbers, texts, and images",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarega/RandomMan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarega/RandomMan/issues"
+  },
+  "homepage": "https://github.com/sarega/RandomMan#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.1.1",
+    "qrcode": "^1.5.4"
+  }
+}

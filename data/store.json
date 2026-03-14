@@ -1,0 +1,2245 @@
+{
+  "settings": {
+    "title": "Ten Thai Tongue Twisters",
+    "subtitle": "สิบชิวหาพัลวัน",
+    "adminNote": "ส่ง QR ให้ผู้เล่นเข้ามาเล่นรอบเดียวกันได้ทันที",
+    "resultMode": "text",
+    "heroImage": "https://scontent.fbkk6-1.fna.fbcdn.net/v/t39.30808-6/640225381_1587127763414129_8580437524152732027_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=S6LtMSR83CIQ7kNvwEFazu_&_nc_oc=AdkesOlCUjkGErdMjungZCMgUVLfYJ5bEf2QTZTgL2-TKnVpEqdIVtM3QCY6k1gSRPY&_nc_zt=23&_nc_ht=scontent.fbkk6-1.fna&_nc_gid=zDUlb9w03eDf7SR1kb8yEQ&_nc_ss=8&oh=00_Afx_5WjwjecYsa65sX2IOufaxdWAn9W5U-w8UBdeUngPFQ&oe=69BB016F",
+    "logoImage": "",
+    "theme": {
+      "primaryColor": "#ff7a18",
+      "accentColor": "#0f172a",
+      "surfaceColor": "#fff7ed",
+      "backgroundColor": "#fff4d6",
+      "textColor": "#24140a"
+    }
+  },
+  "pools": {
+    "numbers": {
+      "defaultMin": 1,
+      "defaultMax": 10
+    },
+    "texts": [
+      {
+        "id": "seed-text-1",
+        "value": "น้ำมาปลากินมด น้ำลดมดกินปลา"
+      },
+      {
+        "id": "seed-text-2",
+        "value": "ยักษ์ใหญ่ไล่ยักษ์เล็ก"
+      },
+      {
+        "id": "seed-text-3",
+        "value": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ"
+      },
+      {
+        "id": "seed-text-4",
+        "value": "ทหารถือปืนแบกปูนไปโบกตึก"
+      },
+      {
+        "id": "seed-text-5",
+        "value": "ระนองระยองยะลา"
+      },
+      {
+        "id": "seed-text-6",
+        "value": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด"
+      },
+      {
+        "id": "seed-text-7",
+        "value": "กล้วยตานีปลายหวีเหี่ยว หิ้วหวีไปหิ้วหวีมา"
+      },
+      {
+        "id": "seed-text-8",
+        "value": "ยายกินลำไยน้ำลายยายไหลย้อย"
+      },
+      {
+        "id": "seed-text-9",
+        "value": "อาเฮียหลี อาหลีเฮีย"
+      },
+      {
+        "id": "seed-text-10",
+        "value": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี"
+      }
+    ],
+    "images": [
+      {
+        "id": "image_7d24669a-0625-47e0-ab2b-e00bf397fe71",
+        "title": "1",
+        "path": "/uploads/1773487148606-a4b8ac74-7e6c-49af-93dc-cea3dad19d73.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_fbc428ba-44b2-4e09-8257-376b54a71f12",
+        "title": "2",
+        "path": "/uploads/1773487154305-4ae81bb2-fe94-4451-82d4-29c63eea7d35.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_5108ba3d-bf61-461e-98c5-3c3ff07f152c",
+        "title": "3",
+        "path": "/uploads/1773487160886-e008f7c4-fa36-4ee4-9c56-804833d6bb12.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_00e99a43-2428-4a91-8738-a48d9ba2ad34",
+        "title": "4",
+        "path": "/uploads/1773487166843-6f562ff6-37b1-4d07-b5ca-8be9a6e6f79b.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_e30ddf13-0aed-4292-bfca-f29ab986fc28",
+        "title": "5",
+        "path": "/uploads/1773487174157-bff859e3-8edd-4f3b-80e5-f1551774db8c.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_44552096-b597-4aa4-9143-fbb5cef1878f",
+        "title": "6",
+        "path": "/uploads/1773487181286-2803bc61-4ae4-48b4-8a55-38e4a8427e3d.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_4a935acb-b36f-4cc5-bafd-549d6b243afc",
+        "title": "7",
+        "path": "/uploads/1773487186145-c2f4bb47-2629-43d8-a518-af417c5498f7.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_63aa4d22-b188-4ef7-8104-584be6aa87ad",
+        "title": "8",
+        "path": "/uploads/1773487190707-e1ef08e5-a59e-4400-acd8-8c493ccaed51.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_aa78a95c-6a54-48af-a973-c7dbb3645930",
+        "title": "9",
+        "path": "/uploads/1773487195708-52635109-f078-406c-af11-f946d7a05716.jpg",
+        "source": "upload"
+      },
+      {
+        "id": "image_a22b03a5-70e1-47c5-a04b-21635ec1390e",
+        "title": "10",
+        "path": "/uploads/1773487200452-bb3f9989-7eda-4fda-9ee9-723c779f9421.jpg",
+        "source": "upload"
+      }
+    ]
+  },
+  "liveSession": {
+    "code": "LUCKY10",
+    "createdAt": "2026-03-14T00:00:00.000Z"
+  },
+  "draws": [
+    {
+      "id": "draw_94a8a375-43b0-4915-a6f3-9f17e8c08c90",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "3",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:34.601Z"
+    },
+    {
+      "id": "draw_4b9b9a8a-f68a-4840-8daf-eeee6c2efe59",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:35.576Z"
+    },
+    {
+      "id": "draw_4d645a7c-69b2-4de8-ad70-3cfbbbf60387",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "10",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:36.091Z"
+    },
+    {
+      "id": "draw_43ff3ad4-b05f-4533-b6cd-582b27c9fe76",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "1",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:36.447Z"
+    },
+    {
+      "id": "draw_28d3c54f-cab8-44e8-ba8f-3ce5672328a1",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:36.700Z"
+    },
+    {
+      "id": "draw_a89c4423-b9d2-4b7c-be76-8d073c1db773",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "10",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:36.928Z"
+    },
+    {
+      "id": "draw_df122493-6814-4b3e-8ce6-b9c7fb9e2847",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "10",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:37.309Z"
+    },
+    {
+      "id": "draw_e303cb6b-818c-4369-a7e4-5818d8c9e711",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "8",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:39.524Z"
+    },
+    {
+      "id": "draw_c02d2be4-f7c2-497f-bc28-43a9aef84b90",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "3",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:39.952Z"
+    },
+    {
+      "id": "draw_8451c9d5-e7c9-41b0-8da5-780193eb527a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:41.371Z"
+    },
+    {
+      "id": "draw_9c39e4f4-cdc1-46ee-8e55-295d0102c818",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "1",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:41.979Z"
+    },
+    {
+      "id": "draw_a389ab3a-a626-4dfa-9215-dd5cb8e3c7e5",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "5",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:42.295Z"
+    },
+    {
+      "id": "draw_9ed68a66-483f-4d7e-93e6-78a3a0eb6c22",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "3",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:42.603Z"
+    },
+    {
+      "id": "draw_d81ce628-ceec-4a55-8821-32bb5af77721",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "2",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:42.807Z"
+    },
+    {
+      "id": "draw_237bf1cc-f207-48fa-8831-145e4cd075e0",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:43.006Z"
+    },
+    {
+      "id": "draw_c677a24a-dd75-4876-b1a0-7db6bed0e65a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "6",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:43.216Z"
+    },
+    {
+      "id": "draw_b597af99-2761-4fd4-b960-b86bc72f5537",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "7",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:43.413Z"
+    },
+    {
+      "id": "draw_ff5a65b2-5262-4f0f-b719-53ebbb80257d",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "2",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:43.612Z"
+    },
+    {
+      "id": "draw_c1c63849-d3d8-44fc-82f4-39599ad50be2",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:43.802Z"
+    },
+    {
+      "id": "draw_242a9b9b-98cb-47ea-ba4d-c0581051f7fb",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "6",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:44.101Z"
+    },
+    {
+      "id": "draw_9ba50d56-8041-4c91-83f0-f61bcfb7da1f",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "6",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:44.305Z"
+    },
+    {
+      "id": "draw_80d934ea-18f1-4250-81d8-279a24076276",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "2",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:44.518Z"
+    },
+    {
+      "id": "draw_cfd9d939-1af1-4535-99bb-4725c5eb2f60",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "5",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:44.818Z"
+    },
+    {
+      "id": "draw_077c442f-9a6b-442e-89c0-2e882bdd72e7",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:45.061Z"
+    },
+    {
+      "id": "draw_84fb9c5d-98d6-4d9f-a909-8f114ec10ba7",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "6",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:45.277Z"
+    },
+    {
+      "id": "draw_7d53bc32-8631-4384-8e9b-139d38a00177",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "1",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:45.508Z"
+    },
+    {
+      "id": "draw_ba166478-5994-446d-88cd-f4158a5eef02",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "2",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:45.764Z"
+    },
+    {
+      "id": "draw_a22b2210-e236-4ff0-9663-cb88f656324b",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "6",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:46.040Z"
+    },
+    {
+      "id": "draw_abba016b-f084-4075-9199-2fbb1b3c961a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "7",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:46.256Z"
+    },
+    {
+      "id": "draw_cc45428d-5b6c-4381-b5d5-e1fe50668e04",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "5",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:46.508Z"
+    },
+    {
+      "id": "draw_a8391384-5baa-41ee-ae01-aac6cd2ad8ac",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "7",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:46.808Z"
+    },
+    {
+      "id": "draw_9f568951-9443-429b-8d7f-a78e781e61c4",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "7",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:47.028Z"
+    },
+    {
+      "id": "draw_fb52eacf-ee38-42e4-88d7-62b97dd7be59",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "5",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:46:47.320Z"
+    },
+    {
+      "id": "draw_17f941ee-b2ac-4a1b-b3b0-d92c148bc5ec",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ลองเริ่มสิ่งใหม่ในวันนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:03.317Z"
+    },
+    {
+      "id": "draw_68f0536d-2719-46e8-9057-f9fe111f6dae",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "พักอีกนิดแล้วรางวัลจะมา",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:04.422Z"
+    },
+    {
+      "id": "draw_97f5c87d-f5cb-43ea-a056-a03775cd192e",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "พักอีกนิดแล้วรางวัลจะมา",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:04.899Z"
+    },
+    {
+      "id": "draw_a9cce8d9-41df-4850-b48a-670d3444bf7a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โชคพิเศษกำลังเดินเข้ามา",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:05.195Z"
+    },
+    {
+      "id": "draw_ec6e915b-5f8e-4174-aa6f-9f1ed6748ef0",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "มีคนกำลังส่งพลังดี ๆ ให้คุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:05.457Z"
+    },
+    {
+      "id": "draw_9c39efdf-eba7-44bc-80db-487ca4fa7784",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ทีมของคุณกำลังไปถูกทาง",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:05.706Z"
+    },
+    {
+      "id": "draw_3f40221d-bda3-4990-b079-e5efd89e9125",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โอกาสใหม่กำลังเปิดขึ้น",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:05.917Z"
+    },
+    {
+      "id": "draw_f35cbcde-f5ee-4db8-9319-1ba6213731d5",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ทีมของคุณกำลังไปถูกทาง",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:06.149Z"
+    },
+    {
+      "id": "draw_28bd91a5-6403-46f0-9c47-834117ecb3c5",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "มีคนกำลังส่งพลังดี ๆ ให้คุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:06.373Z"
+    },
+    {
+      "id": "draw_24a09d71-57dc-479e-9100-2ab4f7688a3a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ทีมของคุณกำลังไปถูกทาง",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:06.606Z"
+    },
+    {
+      "id": "draw_cacdf2d4-c46e-4b4e-9a2e-7895d98897d1",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โอกาสใหม่กำลังเปิดขึ้น",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:06.842Z"
+    },
+    {
+      "id": "draw_f39dcba0-bc75-41ad-8d3a-f41dd06b07da",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "รอบนี้อาจเป็นแจ็กพอตของคุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:07.196Z"
+    },
+    {
+      "id": "draw_f989f476-3f41-45a9-82c2-e97a701b886b",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "จังหวะทองอยู่ในรอบนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:07.517Z"
+    },
+    {
+      "id": "draw_8dd5128b-4fcc-4d67-8c4a-1eb5f1f05a7f",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "มีคนกำลังส่งพลังดี ๆ ให้คุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:07.733Z"
+    },
+    {
+      "id": "draw_f8292044-7c44-4a3c-823a-432edd2f25c9",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "มีคนกำลังส่งพลังดี ๆ ให้คุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:08.041Z"
+    },
+    {
+      "id": "draw_460f9ba1-222c-48da-9b49-f5eb5a684d1e",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "คำตอบอยู่ใกล้กว่าที่คิด",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:08.394Z"
+    },
+    {
+      "id": "draw_90f04dc2-227f-46aa-aeb2-7422fed74655",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ลองเริ่มสิ่งใหม่ในวันนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:08.729Z"
+    },
+    {
+      "id": "draw_0baa3ee3-c2f7-40e9-9b06-b14670a6bdf0",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "วันนี้คุณจะได้ข่าวดี",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:08.971Z"
+    },
+    {
+      "id": "draw_123d6937-99f9-4ed4-98e2-7458d0f97aba",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "คำตอบอยู่ใกล้กว่าที่คิด",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:09.184Z"
+    },
+    {
+      "id": "draw_fdc77099-2d7d-43ff-a2f8-c5ee8729edc9",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "จังหวะทองอยู่ในรอบนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:09.393Z"
+    },
+    {
+      "id": "draw_54e791eb-b952-4fe9-921a-b296480fa320",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โชคพิเศษกำลังเดินเข้ามา",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:09.616Z"
+    },
+    {
+      "id": "draw_75f6715e-2e98-4b30-bf13-868562d4216d",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โอกาสใหม่กำลังเปิดขึ้น",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:09.820Z"
+    },
+    {
+      "id": "draw_bb8623ca-abe7-4ebd-a002-d57f6d506b2c",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "พักอีกนิดแล้วรางวัลจะมา",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:10.038Z"
+    },
+    {
+      "id": "draw_d88392e6-a204-40a2-aea6-037fb82d3440",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ลองเริ่มสิ่งใหม่ในวันนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:10.622Z"
+    },
+    {
+      "id": "draw_0976a29e-1632-4c74-a21e-e30138cb6565",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "คำตอบอยู่ใกล้กว่าที่คิด",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:12.755Z"
+    },
+    {
+      "id": "draw_34143c33-11d7-471f-a226-1e74f3c570c2",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "จังหวะทองอยู่ในรอบนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:13.171Z"
+    },
+    {
+      "id": "draw_37387822-d79a-42af-b9a2-d9672fd36af9",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ทีมของคุณกำลังไปถูกทาง",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:13.411Z"
+    },
+    {
+      "id": "draw_f5c42494-0bdb-4f11-8fc2-0c0f132ed373",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "คำตอบอยู่ใกล้กว่าที่คิด",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:13.632Z"
+    },
+    {
+      "id": "draw_9245576e-855a-4cd7-b49b-16b1bbcb7ff1",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "จังหวะทองอยู่ในรอบนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:13.887Z"
+    },
+    {
+      "id": "draw_297b1ba1-f6d5-4e4f-b1cf-d4af419ef200",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "วันนี้คุณจะได้ข่าวดี",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:14.241Z"
+    },
+    {
+      "id": "draw_69622ad0-0cc8-4bfb-9c5c-a8d09e33c68a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "พักอีกนิดแล้วรางวัลจะมา",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:14.766Z"
+    },
+    {
+      "id": "draw_da9c6652-b0a5-4986-b16e-ec3cc5114abd",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โอกาสใหม่กำลังเปิดขึ้น",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:15.131Z"
+    },
+    {
+      "id": "draw_38c04e3f-28a6-4108-88b6-7055af3fabee",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "มีคนกำลังส่งพลังดี ๆ ให้คุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:15.465Z"
+    },
+    {
+      "id": "draw_66a80978-3031-47d9-bfd9-e9f25cd606aa",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "วันนี้คุณจะได้ข่าวดี",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:15.992Z"
+    },
+    {
+      "id": "draw_7a6d1e63-0e31-49d1-bd2c-c18ac1fe2edf",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "คำตอบอยู่ใกล้กว่าที่คิด",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:16.308Z"
+    },
+    {
+      "id": "draw_59908aad-5f9f-41f3-85d3-dd02d531705f",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "มีคนกำลังส่งพลังดี ๆ ให้คุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:16.589Z"
+    },
+    {
+      "id": "draw_971fa3fd-4cf7-4431-9a44-0ae4a7b9e4b5",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "ลองเริ่มสิ่งใหม่ในวันนี้",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:16.918Z"
+    },
+    {
+      "id": "draw_ee767c37-8fc8-4843-bd7c-60a533772093",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "รอบนี้อาจเป็นแจ็กพอตของคุณ",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:17.231Z"
+    },
+    {
+      "id": "draw_7633f01c-d4bf-4ff9-9c00-f0303599597a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "text",
+      "result": {
+        "label": "โอกาสใหม่กำลังเปิดขึ้น",
+        "imageUrl": "",
+        "detail": "ข้อความจากคลังคำสั่ง"
+      },
+      "sourceLabel": "Text pool",
+      "createdAt": "2026-03-14T10:47:17.494Z"
+    },
+    {
+      "id": "draw_006b26ed-270f-4fae-a646-58a41d9017bf",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:18.615Z"
+    },
+    {
+      "id": "draw_f39d1c15-a78a-4b16-80c2-2982fe7e715a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:19.153Z"
+    },
+    {
+      "id": "draw_74c0d04f-648b-4f21-aa9b-45888b7edc18",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:19.664Z"
+    },
+    {
+      "id": "draw_07f458c4-607f-4020-8779-58516095f2e2",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:20.326Z"
+    },
+    {
+      "id": "draw_142ea237-d597-4dea-90fb-b14f937dab8a",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:20.925Z"
+    },
+    {
+      "id": "draw_f381aba1-8454-40b8-b187-d5f58ec29d6d",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:21.596Z"
+    },
+    {
+      "id": "draw_93d4c5c0-a717-423a-a845-22c71df4c347",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:22.165Z"
+    },
+    {
+      "id": "draw_caf3e07f-cffd-4657-9884-2351ba75aa5b",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:22.674Z"
+    },
+    {
+      "id": "draw_fd40094d-9d3d-4be8-8966-4f862a1928ce",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:23.533Z"
+    },
+    {
+      "id": "draw_4cd36c14-a815-4368-a506-80147fdb85cc",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:24.100Z"
+    },
+    {
+      "id": "draw_92382a5d-ec4f-4f84-a684-55cf5ef630ee",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:24.523Z"
+    },
+    {
+      "id": "draw_c255fdba-ec4e-4320-b7d5-490ddd9112f4",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:24.915Z"
+    },
+    {
+      "id": "draw_819d998d-97a3-4f64-800a-17db874edb6f",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:25.355Z"
+    },
+    {
+      "id": "draw_8624483f-ffa7-43af-8d42-bee962f3cd81",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:25.760Z"
+    },
+    {
+      "id": "draw_30548082-7d4b-4971-bf23-b744d48eae70",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:26.160Z"
+    },
+    {
+      "id": "draw_c6f470bf-4e7f-46d0-a829-f560f645ad0d",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:26.608Z"
+    },
+    {
+      "id": "draw_95fe849c-c81c-4427-be3e-a76f82448089",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:27.152Z"
+    },
+    {
+      "id": "draw_8298212a-66f0-4713-ab95-c9b9cd4186b6",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:27.537Z"
+    },
+    {
+      "id": "draw_aa46afe5-719f-4938-9133-14c7b6ffe976",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:27.808Z"
+    },
+    {
+      "id": "draw_f980baa9-06eb-4737-9b60-efaf96fc9cc0",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:28.050Z"
+    },
+    {
+      "id": "draw_b87fe37e-e461-4851-a795-0a0de5b57ae4",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:28.319Z"
+    },
+    {
+      "id": "draw_0a82847a-b09d-4062-b718-cb984b40338d",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:28.876Z"
+    },
+    {
+      "id": "draw_513f9687-7699-44d8-b013-905e96029075",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:29.318Z"
+    },
+    {
+      "id": "draw_ee3f3ddd-0926-418c-bc84-a6d098e1012c",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:29.734Z"
+    },
+    {
+      "id": "draw_eb0db3ea-4af3-40b2-92e5-d1e6b3b7f0df",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "image",
+      "result": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Image pool",
+      "createdAt": "2026-03-14T10:47:30.250Z"
+    },
+    {
+      "id": "draw_9b8b3275-2fb7-49d5-b5d9-bdf0f4ddfdbe",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "9",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:53:12.860Z"
+    },
+    {
+      "id": "draw_a406045d-1fc9-4194-82a0-e237038078be",
+      "sessionCode": "LUCKY10",
+      "playerName": "",
+      "category": "number",
+      "result": {
+        "label": "4",
+        "imageUrl": "",
+        "detail": "ตัวเลขสุ่ม"
+      },
+      "sourceLabel": "Default range 1-10",
+      "createdAt": "2026-03-14T10:53:13.787Z"
+    },
+    {
+      "id": "draw_9eddb6b9-55de-4ea1-8e74-59ee3eeac110",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:44.362Z"
+    },
+    {
+      "id": "draw_743ea8ce-0cee-4c15-a08e-64bf8de6c1d9",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:49.299Z"
+    },
+    {
+      "id": "draw_b6c5e59c-13d8-4d50-95ba-c9ddc0f9ef4c",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:49.847Z"
+    },
+    {
+      "id": "draw_5f3c1476-71db-4614-abe5-393172d273a8",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:50.308Z"
+    },
+    {
+      "id": "draw_d09be0c7-129d-456c-af48-c612ef869796",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "กล้วยตานีปลายหวีเหี่ยว หิ้วหวีไปหิ้วหวีมา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "กล้วยตานีปลายหวีเหี่ยว หิ้วหวีไปหิ้วหวีมา + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:50.607Z"
+    },
+    {
+      "id": "draw_c4158950-d06f-46de-98f9-9d49972ad97d",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "อาเฮียหลี อาหลีเฮีย",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "อาเฮียหลี อาหลีเฮีย + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:50.824Z"
+    },
+    {
+      "id": "draw_ac8a22ff-9724-4bf3-acfa-a43231bec5a9",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "น้ำมาปลากินมด น้ำลดมดกินปลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "น้ำมาปลากินมด น้ำลดมดกินปลา + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:51.030Z"
+    },
+    {
+      "id": "draw_610a6ad0-ec71-446a-a47a-60b22f0959de",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยายกินลำไยน้ำลายยายไหลย้อย",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยายกินลำไยน้ำลายยายไหลย้อย + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:51.247Z"
+    },
+    {
+      "id": "draw_ffb0f109-ccf2-4010-a761-5b4271230cba",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:51.999Z"
+    },
+    {
+      "id": "draw_8149d75c-bf37-4853-a59a-c889be1d816c",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:52.351Z"
+    },
+    {
+      "id": "draw_6ed89214-b68b-4d39-a4ae-9486d21b2c2f",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:52.844Z"
+    },
+    {
+      "id": "draw_d61297a6-d273-47b9-873c-7e3a8731fdb4",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:53.318Z"
+    },
+    {
+      "id": "draw_ba7d40c4-7126-4fcd-a0ab-6f7072670ea4",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "กล้วยตานีปลายหวีเหี่ยว หิ้วหวีไปหิ้วหวีมา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "กล้วยตานีปลายหวีเหี่ยว หิ้วหวีไปหิ้วหวีมา + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:53.807Z"
+    },
+    {
+      "id": "draw_74edb595-09d8-46c8-ba07-c90da1d28d3b",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ระนองระยองยะลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ระนองระยองยะลา + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:54.284Z"
+    },
+    {
+      "id": "draw_5bb591e6-420b-4c80-8d40-bd1008bd81ed",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:54.707Z"
+    },
+    {
+      "id": "draw_e4b482da-3775-4120-b8f2-9ceb9594a670",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:55.497Z"
+    },
+    {
+      "id": "draw_1d95ac37-2467-4f40-a97f-0553666e392d",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ระนองระยองยะลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ระนองระยองยะลา + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:57.158Z"
+    },
+    {
+      "id": "draw_76d31d7d-ff99-4061-86bf-756761a4f7fc",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ระนองระยองยะลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ระนองระยองยะลา + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:57.562Z"
+    },
+    {
+      "id": "draw_9d5bdc17-5c25-4220-9944-f154e40e3723",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ระนองระยองยะลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ระนองระยองยะลา + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:58.031Z"
+    },
+    {
+      "id": "draw_589a9101-9dbf-4513-8696-462f01a23d41",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:58.464Z"
+    },
+    {
+      "id": "draw_9f5edb7c-3361-49a6-8e51-c5343c2b24a8",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "เช้าฟาดผัดฟัก เย็นฟาดฟักผัด + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:58.822Z"
+    },
+    {
+      "id": "draw_7fcae462-9f79-472b-b048-476f0dec6b9e",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ระนองระยองยะลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ระนองระยองยะลา + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:59.068Z"
+    },
+    {
+      "id": "draw_a0046004-de70-4db3-bd51-8e5685468c45",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "อาเฮียหลี อาหลีเฮีย",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "อาเฮียหลี อาหลีเฮีย + Star Burst",
+        "imageUrl": "/assets/starburst.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:59.295Z"
+    },
+    {
+      "id": "draw_ab5b0fe6-3708-412e-a065-141600576f31",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "น้ำมาปลากินมด น้ำลดมดกินปลา",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "น้ำมาปลากินมด น้ำลดมดกินปลา + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T10:59:59.632Z"
+    },
+    {
+      "id": "draw_629396d0-f9be-40ee-8ed3-51ae8f473d90",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก + Jackpot Ticket",
+        "imageUrl": "/assets/jackpot-ticket.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:00:00.010Z"
+    },
+    {
+      "id": "draw_f84d0477-ebfb-4b06-a2f3-3445a396a9c7",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:00:00.470Z"
+    },
+    {
+      "id": "draw_49c262c2-f3d2-4942-bf6d-6a003c264835",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:00:00.946Z"
+    },
+    {
+      "id": "draw_ce656a80-2e98-4cc3-9bc3-e273b5c9c2c0",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี + Lucky Wheel",
+        "imageUrl": "/assets/lucky-wheel.svg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:13:26.003Z"
+    },
+    {
+      "id": "draw_77771cd5-7290-4551-b00e-019bc5a2fcc9",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "อาเฮียหลี อาหลีเฮีย",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "7",
+        "imageUrl": "/uploads/1773487186145-c2f4bb47-2629-43d8-a518-af417c5498f7.jpg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "อาเฮียหลี อาหลีเฮีย + 7",
+        "imageUrl": "/uploads/1773487186145-c2f4bb47-2629-43d8-a518-af417c5498f7.jpg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:20:47.003Z"
+    },
+    {
+      "id": "draw_bd289c5d-2753-464d-9cbf-bc2a91097cf0",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "1",
+        "imageUrl": "/uploads/1773487148606-a4b8ac74-7e6c-49af-93dc-cea3dad19d73.jpg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ชามเขียวคว่ำเช้า ชามขาวคว่ำค่ำ + 1",
+        "imageUrl": "/uploads/1773487148606-a4b8ac74-7e6c-49af-93dc-cea3dad19d73.jpg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:21:51.256Z"
+    },
+    {
+      "id": "draw_9eb3312f-1d16-41d4-a5cf-ba8e54272e7f",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "1",
+        "imageUrl": "/uploads/1773487148606-a4b8ac74-7e6c-49af-93dc-cea3dad19d73.jpg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยักษ์ใหญ่ไล่ยักษ์เล็ก + 1",
+        "imageUrl": "/uploads/1773487148606-a4b8ac74-7e6c-49af-93dc-cea3dad19d73.jpg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:23:03.436Z"
+    },
+    {
+      "id": "draw_a2784ee2-948e-4013-9a22-1239c19f3bbb",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "10",
+        "imageUrl": "/uploads/1773487200452-bb3f9989-7eda-4fda-9ee9-723c779f9421.jpg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ทหารถือปืนแบกปูนไปโบกตึก + 10",
+        "imageUrl": "/uploads/1773487200452-bb3f9989-7eda-4fda-9ee9-723c779f9421.jpg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:24:01.530Z"
+    },
+    {
+      "id": "draw_05eb0c2b-e59c-4e52-9e30-c9bdde84b5db",
+      "sessionCode": "LUCKY10",
+      "playerName": "Anonymous Player",
+      "category": "combo",
+      "primaryResult": {
+        "kind": "text",
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี",
+        "detail": "ข้อความจากคลังคำสั่ง",
+        "sourceLabel": "Text pool"
+      },
+      "imageResult": {
+        "label": "5",
+        "imageUrl": "/uploads/1773487174157-bff859e3-8edd-4f3b-80e5-f1551774db8c.jpg",
+        "detail": "รูปภาพจากคลังกราฟิก",
+        "sourceLabel": "Image pool"
+      },
+      "result": {
+        "label": "ยานัตถุ์หมอมีแก้ฝีแก้หิด ยานัตถุ์หมอชิตแก้หิดแก้ฝี + 5",
+        "imageUrl": "/uploads/1773487174157-bff859e3-8edd-4f3b-80e5-f1551774db8c.jpg",
+        "detail": "ข้อความจากคลังคำสั่ง + รูปภาพจากคลังกราฟิก"
+      },
+      "sourceLabel": "Text pool + Image pool",
+      "createdAt": "2026-03-14T11:31:06.153Z"
+    }
+  ]
+}
